@@ -26,3 +26,8 @@ To run this project, first install the necessary Python libraries:
 pip install requests python-dotenv
 ```
 ## ScreenShots
+
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/b5d04a84-4a9e-4257-af40-b730e71b1220" />
+<img width="400" alt="2" src="https://github.com/user-attachments/assets/9064265e-be87-44ec-a14a-a88ef706306c" />
+<img width="400" alt="3" src="https://github.com/user-attachments/assets/25d0bd91-0de1-4a1d-a1a3-78f206ce11a5" />
+<img width="400" alt="4" src="https://github.com/user-attachments/assets/0a744bb8-9c58-4f11-b844-e91ae7c9e30f" />
